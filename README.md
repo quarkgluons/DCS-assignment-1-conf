@@ -1,5 +1,5 @@
 ### About
-This repository creates two images using the gcc image from dockerhub 
+This repository creates two containers using the gcc image from dockerhub 
 
 ### Prerequisites
 1. Install Docker
