@@ -1,0 +1,6 @@
+services:
+  server:
+    build: ./system-1/
+
+  client:
+    build: ./system-2/
