@@ -22,4 +22,4 @@ You may find that you may be able to ping both the containers from their bash pr
 
 ### Cleanup
 
-To clean up any containers and repositories are created run `bash ./cleanup.sh`
+To clean up any containers and repositories created, run `bash ./cleanup.sh`
